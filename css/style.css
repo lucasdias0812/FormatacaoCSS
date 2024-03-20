@@ -1,0 +1,22 @@
+body {
+    background-color: hsl(0, 0%, 79%);
+    border: 2px solid hsl(189, 100%, 69%);
+    padding: 3rem;
+    border-radius: 15px;
+  }
+  h1 {
+    color: hsl(120, 2%, 8%);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
+  p {
+    color:hsl(0, 100%, 51%);
+    margin: 50px;
+    font-size: 20px
+  }
+  a {
+    text-align: center;
+    padding: 1rem;
+    border: 2px solid hsl(0, 12%, 18%)
+  }
